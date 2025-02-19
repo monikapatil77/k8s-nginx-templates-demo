@@ -9,11 +9,11 @@ nginx kubernetes deployment
 - Deployments
 
 ## ToDo:
-1. Create pod from terminal - done
+1. Create pod from cli or terminal - done
 2. Create pod from yaml file - done
-3. Create service from terminal
+3. Create service from cli or terminal
 4. Create service from yaml
-5. Create deployments from terminal
+5. Create deployments from cli or terminal
 6. Create deployments from yaml
 7. Create pods and deployments in custom namespace
 8. Attach pods and deployments to non default namespace
@@ -21,6 +21,9 @@ nginx kubernetes deployment
 10. Add livenessprobe, resource limit in pod manifest
 11. Add health-check probe in pod manifest
 12. Apply label, label-selector and annotations to pods, services and deployments
+    - pods - done
+    - services -
+    - deployments -  
 
 
 ## Questions:
