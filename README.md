@@ -20,6 +20,7 @@ nginx kubernetes deployment
 9. Create pods and deployments in user defined network
 10. Add livenessprobe, resource limit in pod manifest
 11. Add health-check probe in pod manifest
+12. Apply label, label-selector and annotations to pods, services and deployments
 
 
 ## Questions:
